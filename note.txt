@@ -1,0 +1,19 @@
+> @php artisan vendor:publish --tag=laravel-assets --ansi --force
+
+   INFO  No publishable resources for tag [laravel-assets].
+
+No security vulnerability advisories found
+> @php artisan key:generate --ansi
+
+   INFO  Application key set successfully.
+
+
+***** NOTE: Now, you can use pretty url for your awesome project :) *****
+--------------------------------------------------
+(Laragon) Project path: C:/laragon/www/tutorialone
+(Laragon) Pretty url: http://tutorialone.test
+--------------------------------------------------
+
+
+
+C:\laragon\www\tutorialone>
